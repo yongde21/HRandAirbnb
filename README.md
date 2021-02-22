@@ -1,5 +1,4 @@
 # HRandAirbnb
-Predictive Analytics Assignment
 There are 2 problems that was assigned for this assignemnt, HR Analytics and Airbnb Singapore.
 ### HR Analytics Problem Understanding
 While human resource analytics have been revolutionizing the way human resources (HR) departments operate, the method which they are using to collect, process, and analyze the data collected are all largely done manually which is highly inefficient and time-consuming. This problem has been constraining human resources due to their nature and their way of processing and analyzing data. Also, since analytics is not HR’s area of specialization, they may not be able to accurately deem an employee for promotion as compared to a predictive model.
